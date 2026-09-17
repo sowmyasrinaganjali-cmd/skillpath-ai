@@ -1,0 +1,6 @@
+{
+  "name": "SkillPath AI",
+  "description": "AI-powered career & skill roadmap generator that bridges the gap between student skills and industry requirements using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
